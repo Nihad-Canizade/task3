@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Sans-Serif;
+    }
+    nav{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-top: 30px;
+    padding-right: 3%;
+    padding-bottom: 17px;
+    background-color: #273139;
+    margin-top: -20px;
+    }
+    nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px 20px;
+    }
+    nav ul li a{
+    color: white;
+    text-decoration: none;
+    }
+    .nav-h2{
+    margin-right: 750px;
+    color: white;
+    cursor: pointer;
+    }
+    .li-a{
+    color: #AFB7B5;
+    }
+    .li-a:hover{
+    color: white;
+    }
+    .body1{
+    background-image: url('https://source.unsplash.com/wfh8dDlNFOk/1600x900');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 29rem;
+    width: 100%;
+    }
+    .cricle{
+    background-color: #807D7D;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    margin-left: 35.5rem;
+    margin-top: -19rem;
+    }
+    
+    .cricle-p{
+    color: white;
+    text-align: center;
+    margin-top: -5.3rem;
+    margin-left: -20px;
+    }
+    .body1-h3{
+    color: white;
+    text-align: center;
+    margin-top: 5rem;
+    font-size: 1.5rem;
+    }
+    .body1-p{
+    color: #807D7D;
+    font-size: 13px;
+    text-align: center;
+    margin-top: 7px;
+    }
+    .body2{
+    height: 15rem;
+    width: 100%;
+    }
+    .body2-h2{
+    text-align: center;
+    margin-left: -15rem;
+    margin-top: 7rem;
+    font-size: 2rem;
+    }
+    .body2-p1{
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 21.7rem;
+    font-size: 20px;
+    }
+    .body2-p2{
+    margin-left: 21.7rem;
+    font-size: 15px;
+    }
+    .body3{
+    height: 22rem;
+    width: 100%;
+    background-image: url('https://source.unsplash.com/4ulffa6qoKA/1200x800');
+    background-size: cover;
+    background-position: center;
+    margin-top: 40px;
+    }
+    .body4{
+    height: 17rem;
+    width: 100%;
+    }
+    .body4-h2{
+        text-align: center;
+        margin-left: -15rem;
+        margin-top: 7rem;
+        font-size: 2rem;
+    }
+    .body4-p1{
+        font-family: 'Courier New', Courier, monospace;
+        margin-left: 18.9rem;
+        font-size: 20px;
+    }
+    .body4-p2{
+        margin-left: 18.9rem;
+        font-size: 15px;
+    }
+    .body5{
+    background-color:#404451;
+    height: 7rem;
+    width: 100%;
+    }
+    .body5-p{
+    color: white;
+    text-align: center;
+    margin-top: -4rem;
+    }
